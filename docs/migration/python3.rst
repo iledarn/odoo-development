@@ -16,4 +16,7 @@
     # SOMETHING.encode('base64') -> base64.b64encode(SOMETHING)
     # SOMETHING.decode('base64') -> base64.b64decode(SOMETHING)
 
+    # python3 dict
+    # has no `iteritems` - use `items' instead
+
 
